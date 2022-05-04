@@ -1,4 +1,5 @@
 /__pycache__/*
+/assets/cookies/*
 /scikit-image/*
 ytb.db
 geckodriver.log

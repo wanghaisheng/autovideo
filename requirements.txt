@@ -4,3 +4,12 @@ itemdb
 selenium-wire
 moviepy
 ytb_up
+sentry-sdk
+environs
+pyecharts
+
+SQLAlchemy
+cachetools
+psycopg2-binary = "2.9.3"
+pytz = "^2021.1"
+pywebio = "==1.6.0"

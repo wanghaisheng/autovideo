@@ -1,0 +1,1 @@
+from .contents import *  # noqa

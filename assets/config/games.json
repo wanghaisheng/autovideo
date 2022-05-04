@@ -1,13 +1,13 @@
 {
     "driverfilepath": "D:/Download/audio-visual/make-reddit-video/auddit/assets/driver/geckodriver.exe",
     "firefox_profile_folder": "D:/Download/audio-visual/make-reddit-video/auddit/assets/profile/harrypotter",
-    "video_folder": "D:/Download/audio-visual/UCBBj-A2EqL5pNApsLhoeM6w/BiliBili",
+    "video_folder": "D:/Download/audio-visual/UCBBj-A2EqL5pNApsLhoeM6w/shenhe/shenhe",
     "music_folder": "D:/Download/audio-visual/make-reddit-video/autovideo/assets/freemusic",
     "dailycount": "4",
     "publishpolicy": "2",
-    "preferdes": "\u5408\u96c6",
+    "preferdes": "",
     "channelname": "games",
-    "prefertags": "\u96f7\u7535\u5c06\u519b,\u96f7\u7535,\u5c06\u519b,\u539f\u795e,genshin,genshin game,genshi impact,genshi video,genshin impact 2020,paimon,amber,mihoyo,hoyolab,mmo playstation,\u7c73\u54c8\u6e38,\u7c73\u54c8\u904a,\u958b\u653e\u4e16\u754c,\u5192\u96aa,\u89d2\u8272\u626e\u6f14,rpg,playstation,\u6d3e\u8499,\u949f\u79bb,\u5b89\u67cf,\u4e3d\u838e,\u51ef\u4e9a,\u82ad\u82ad\u62c9,\u8fea\u5362\u514b,\u53ef\u8389,\u73ed\u5c3c\u7279,\u83f2\u8c22\u5c14,\u7802\u7cd6,\u83ab\u5a1c,\u8fea\u5965\u5a1c,\u963f\u8d1d\u591a,\u7f57\u838e\u8389\u4e9a,\u4f18\u83c8,\u5317\u6597,\u9999\u83f1,\u91cd\u4e91,\u523b\u6674,\u4e03\u4e03,\u8fbe\u8fbe\u5229\u4e9a,\u7518\u96e8,\u80e1\u6843,\u70df\u7eef,\u795e\u91cc\u7eeb\u534e,\u67ab\u539f\u4e07\u53f6,\u5bb5\u5bab,\u65e9\u67da,eula,rosaria,kamisato ayaka,kaedehara kazhua,yoimiya,sayu,xiao,qiqi,zhongli,ganyu,yanfei,jean,lisa,kaeya",
+    "prefertags": "",
     "channelcookiepath": "D:/Download/audio-visual/make-reddit-video/autovideo/assets/cookies/harrypotter.json",
     "ratio": "1"
 }
